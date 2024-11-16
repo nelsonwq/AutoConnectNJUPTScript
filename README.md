@@ -1,0 +1,2 @@
+# AutoConnectNJUPTScript
+南京邮电大学校园网自连脚本
